@@ -1,7 +1,7 @@
 '''
 Author: hxhBrofessor
 
-Purpose: Purpose: To solve systems of simultaneous linear congruences using the
+Purpose: To solve systems of simultaneous linear congruences using the
 Chinese Remainder Theorem and the Extended Euclidean Algorithm.
 
 
